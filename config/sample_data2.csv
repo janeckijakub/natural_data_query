@@ -1,0 +1,101 @@
+id,imie,wiek,dochod,staz_pracy,departament,stanowisko,wyksztalcenie,ocena_roczna,dni_urlopu
+1,Piotr,36,12644.730000000001,18,HR,Kierownik,Podstawowe,5,23
+2,Małgorzata,58,17717.449999999997,22,Produkcja,Dyrektor,Wyższe,5,21
+3,Tomasz,57,6056.2,26,Sprzedaż,Specjalista,Podstawowe,5,13
+4,Agnieszka,47,9014.575,26,Marketing,Dyrektor,Zawodowe,4,25
+5,Piotr,48,6063.4800000000005,22,HR,Młodszy Specjalista,Średnie,4,22
+6,Marcin,61,17157.449999999997,17,Marketing,Dyrektor,Podstawowe,3,13
+7,Katarzyna,59,6851.7,20,HR,Kierownik,Wyższe,2,23
+8,Piotr,64,6489.5599999999995,10,HR,Starszy Specjalista,Zawodowe,5,1
+9,Tomasz,46,5442.514,6,Finanse,Asystent,Podstawowe,5,12
+10,Agnieszka,51,5047.679,15,HR,Asystent,Zawodowe,5,25
+11,Małgorzata,59,8206.92,22,IT,Kierownik,Wyższe,5,13
+12,Tomasz,25,13650.325,7,Sprzedaż,Dyrektor,Wyższe,4,23
+13,Tomasz,59,5713.08,28,Sprzedaż,Specjalista,Zawodowe,4,18
+14,Katarzyna,61,18085.025,5,Marketing,Dyrektor,Podstawowe,5,6
+15,Jan,38,15296.184,1,HR,Kierownik,Średnie,5,2
+16,Agnieszka,27,4291.91,8,IT,Asystent,Wyższe,3,14
+17,Maria,25,20846.05,7,Marketing,Dyrektor,Podstawowe,4,22
+18,Tomasz,29,5422.641,11,Finanse,Asystent,Podstawowe,3,13
+19,Jan,50,6411.3,12,Marketing,Specjalista,Średnie,5,10
+20,Maria,38,2179.121,12,Marketing,Asystent,Wyższe,4,14
+21,Agnieszka,63,2761.2059999999997,5,HR,Asystent,Wyższe,3,12
+22,Anna,51,10475.471999999998,7,Finanse,Starszy Specjalista,Podstawowe,4,17
+23,Marcin,33,3610.5159999999996,4,Marketing,Starszy Specjalista,Podstawowe,4,25
+24,Jan,39,4990.368,6,IT,Młodszy Specjalista,Średnie,4,5
+25,Andrzej,39,11201.358,13,IT,Starszy Specjalista,Średnie,3,2
+26,Anna,50,4413.388,20,Sprzedaż,Asystent,Wyższe,4,18
+27,Marcin,37,8634.978000000001,15,Finanse,Kierownik,Zawodowe,4,14
+28,Katarzyna,56,3014.739,3,Finanse,Asystent,Wyższe,4,24
+29,Piotr,63,13738.158000000001,23,Sprzedaż,Kierownik,Podstawowe,4,22
+30,Małgorzata,56,12498.138,8,Marketing,Kierownik,Wyższe,5,4
+31,Andrzej,28,7600.628,10,Finanse,Starszy Specjalista,Zawodowe,4,9
+32,Katarzyna,54,20326.45,16,IT,Dyrektor,Średnie,4,6
+33,Agnieszka,61,7708.0,13,IT,Specjalista,Zawodowe,5,24
+34,Katarzyna,47,13408.066,18,HR,Starszy Specjalista,Zawodowe,4,16
+35,Piotr,63,9987.305999999999,28,Finanse,Starszy Specjalista,Zawodowe,3,6
+36,Agnieszka,39,14177.5,10,Marketing,Dyrektor,Średnie,2,21
+37,Andrzej,53,5714.02,19,Sprzedaż,Specjalista,Zawodowe,4,25
+38,Piotr,60,1491.602,17,Sprzedaż,Asystent,Zawodowe,4,11
+39,Maria,37,5041.0560000000005,19,Marketing,Młodszy Specjalista,Zawodowe,4,24
+40,Małgorzata,56,4774.856,19,Produkcja,Młodszy Specjalista,Podstawowe,3,16
+41,Andrzej,31,2337.895,13,HR,Asystent,Zawodowe,3,12
+42,Maria,46,8329.188,26,Sprzedaż,Starszy Specjalista,Średnie,2,19
+43,Marcin,52,8686.34,23,Finanse,Specjalista,Zawodowe,4,24
+44,Andrzej,26,6343.259999999999,8,HR,Starszy Specjalista,Zawodowe,4,3
+45,Marcin,30,7344.378000000001,5,Finanse,Kierownik,Średnie,4,9
+46,Agnieszka,52,11493.804,26,IT,Starszy Specjalista,Zawodowe,4,2
+47,Maria,52,10175.872,21,HR,Starszy Specjalista,Średnie,5,8
+48,Małgorzata,44,8485.533,23,Sprzedaż,Asystent,Zawodowe,4,12
+49,Piotr,54,2354.002,9,HR,Asystent,Średnie,4,17
+50,Tomasz,35,5208.539,12,HR,Asystent,Zawodowe,4,14
+51,Katarzyna,52,5305.424,21,HR,Młodszy Specjalista,Zawodowe,4,3
+52,Anna,49,11013.408000000001,1,Produkcja,Kierownik,Podstawowe,4,14
+53,Małgorzata,63,5474.714,26,HR,Asystent,Podstawowe,5,21
+54,Maria,57,5940.55,26,Finanse,Specjalista,Zawodowe,5,1
+55,Tomasz,25,1701.8000000000002,1,IT,Młodszy Specjalista,Zawodowe,3,14
+56,Małgorzata,51,10763.199999999999,15,Marketing,Dyrektor,Wyższe,5,7
+57,Maria,37,8728.87,2,HR,Specjalista,Średnie,4,7
+58,Jan,27,8344.06,9,Sprzedaż,Specjalista,Wyższe,3,16
+59,Jan,63,3677.632,16,HR,Asystent,Podstawowe,4,11
+60,Marcin,30,17517.975,12,Sprzedaż,Dyrektor,Podstawowe,5,18
+61,Małgorzata,32,28919.699999999997,8,Finanse,Dyrektor,Podstawowe,4,9
+62,Jan,51,4750.104,13,Sprzedaż,Młodszy Specjalista,Podstawowe,4,8
+63,Maria,33,14942.075,15,Marketing,Dyrektor,Zawodowe,4,4
+64,Marcin,61,11486.16,1,IT,Kierownik,Podstawowe,3,5
+65,Maria,57,5049.764999999999,16,Sprzedaż,Asystent,Zawodowe,2,19
+66,Marcin,48,13255.5,29,Sprzedaż,Dyrektor,Zawodowe,3,25
+67,Małgorzata,39,5769.808000000001,7,IT,Młodszy Specjalista,Podstawowe,3,1
+68,Tomasz,56,3800.772,5,Marketing,Kierownik,Podstawowe,3,23
+69,Piotr,56,9341.92,22,HR,Starszy Specjalista,Średnie,3,12
+70,Andrzej,48,8541.764,29,Sprzedaż,Starszy Specjalista,Wyższe,4,5
+71,Tomasz,36,10017.162,18,IT,Kierownik,Podstawowe,3,4
+72,Agnieszka,63,4039.592,3,Finanse,Młodszy Specjalista,Średnie,4,24
+73,Maria,26,8606.25,8,IT,Kierownik,Średnie,5,0
+74,Agnieszka,27,3061.0719999999997,9,Finanse,Asystent,Wyższe,4,20
+75,Tomasz,61,954.7019999999999,16,Marketing,Asystent,Zawodowe,4,21
+76,Marcin,41,7649.544,19,HR,Starszy Specjalista,Podstawowe,3,20
+77,Andrzej,26,20481.65,5,IT,Dyrektor,Wyższe,3,5
+78,Andrzej,26,4263.344,8,Produkcja,Młodszy Specjalista,Podstawowe,2,5
+79,Anna,52,10178.321999999998,25,Sprzedaż,Starszy Specjalista,Średnie,3,22
+80,Andrzej,47,9599.0,29,Marketing,Dyrektor,Średnie,3,15
+81,Piotr,61,8471.5,14,IT,Dyrektor,Zawodowe,3,3
+82,Andrzej,56,3148.9359999999997,28,Sprzedaż,Asystent,Średnie,2,10
+83,Tomasz,57,3949.0,5,IT,Specjalista,Średnie,3,23
+84,Anna,25,3633.92,7,Finanse,Specjalista,Wyższe,4,22
+85,Tomasz,43,12419.19,17,IT,Kierownik,Podstawowe,3,8
+86,Tomasz,26,6690.495,8,Produkcja,Asystent,Podstawowe,4,22
+87,Katarzyna,50,11665.275,20,IT,Dyrektor,Wyższe,4,2
+88,Anna,56,2093.088,5,IT,Młodszy Specjalista,Zawodowe,4,18
+89,Tomasz,30,7313.59,12,Produkcja,Specjalista,Podstawowe,2,7
+90,Katarzyna,56,7820.5,16,Marketing,Dyrektor,Średnie,4,4
+91,Katarzyna,28,3633.47,10,IT,Specjalista,Podstawowe,4,3
+92,Anna,35,6989.99,17,Produkcja,Specjalista,Średnie,2,23
+93,Agnieszka,41,5669.38,16,Sprzedaż,Specjalista,Zawodowe,5,5
+94,Marcin,62,3700.52,21,Finanse,Młodszy Specjalista,Wyższe,5,1
+95,Piotr,48,4295.69,7,Finanse,Asystent,Podstawowe,2,19
+96,Marcin,29,4144.944,4,IT,Młodszy Specjalista,Wyższe,3,10
+97,Andrzej,58,13690.74,1,Marketing,Starszy Specjalista,Podstawowe,5,3
+98,Piotr,30,11620.975,5,Marketing,Dyrektor,Średnie,4,14
+99,Andrzej,46,2921.219,23,Sprzedaż,Asystent,Wyższe,3,5
+100,Tomasz,35,3562.951,17,IT,Asystent,Podstawowe,3,21

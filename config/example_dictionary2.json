@@ -1,0 +1,180 @@
+{
+  "columns": {
+    "id": {
+      "description": "Unikalny identyfikator pracownika",
+      "type": "numeric",
+      "aliases": [
+        "numer_pracownika",
+        "identyfikator"
+      ],
+      "aggregations": [
+        "count"
+      ]
+    },
+    "imie": {
+      "description": "Imię pracownika",
+      "type": "categorical",
+      "aliases": [
+        "nazwa"
+      ],
+      "aggregations": [
+        "count",
+        "mode"
+      ]
+    },
+    "wiek": {
+      "description": "Wiek pracownika w latach",
+      "type": "numeric",
+      "unit": "lata",
+      "aliases": [
+        "lata",
+        "wiek_pracownika"
+      ],
+      "aggregations": [
+        "mean",
+        "median",
+        "min",
+        "max"
+      ]
+    },
+    "dochod": {
+      "description": "Miesięczne wynagrodzenie brutto w PLN",
+      "type": "numeric",
+      "unit": "PLN",
+      "aliases": [
+        "pensja",
+        "wynagrodzenie",
+        "zarobki",
+        "płaca"
+      ],
+      "aggregations": [
+        "mean",
+        "median",
+        "sum",
+        "min",
+        "max"
+      ]
+    },
+    "staz_pracy": {
+      "description": "Staż pracy w latach",
+      "type": "numeric",
+      "unit": "lata",
+      "aliases": [
+        "doświadczenie",
+        "lata_pracy"
+      ],
+      "aggregations": [
+        "mean",
+        "median",
+        "min",
+        "max"
+      ]
+    },
+    "departament": {
+      "description": "Dział firmy",
+      "type": "categorical",
+      "aliases": [
+        "dział",
+        "jednostka"
+      ],
+      "categories": [
+        "IT",
+        "HR",
+        "Finanse",
+        "Marketing",
+        "Sprzedaż",
+        "Produkcja"
+      ],
+      "aggregations": [
+        "count",
+        "mode"
+      ]
+    },
+    "stanowisko": {
+      "description": "Stanowisko pracownika",
+      "type": "categorical",
+      "aliases": [
+        "pozycja",
+        "rola",
+        "funkcja"
+      ],
+      "categories": [
+        "Dyrektor",
+        "Kierownik",
+        "Starszy Specjalista",
+        "Specjalista",
+        "Młodszy Specjalista",
+        "Asystent"
+      ],
+      "aggregations": [
+        "count",
+        "mode"
+      ]
+    },
+    "wyksztalcenie": {
+      "description": "Poziom wykształcenia",
+      "type": "categorical",
+      "aliases": [
+        "edukacja",
+        "poziom_edukacji"
+      ],
+      "categories": [
+        "Podstawowe",
+        "Średnie",
+        "Wyższe",
+        "Zawodowe"
+      ],
+      "aggregations": [
+        "count",
+        "mode"
+      ]
+    },
+    "ocena_roczna": {
+      "description": "Ocena roczna pracownika (2-5)",
+      "type": "numeric",
+      "aliases": [
+        "ocena",
+        "performance"
+      ],
+      "aggregations": [
+        "mean",
+        "median",
+        "mode"
+      ]
+    },
+    "dni_urlopu": {
+      "description": "Pozostałe dni urlopu",
+      "type": "numeric",
+      "unit": "dni",
+      "aliases": [
+        "urlop",
+        "wolne"
+      ],
+      "aggregations": [
+        "mean",
+        "sum",
+        "min",
+        "max"
+      ]
+    }
+  },
+  "context": {
+    "general": "Dataset zawiera informacje o pracownikach firmy, ich charakterystykach i warunkach zatrudnienia",
+    "timeframe": "Dane aktualne na rok 2024",
+    "currency": "Wszystkie wartości pieniężne są w PLN",
+    "confidentiality": "Dane są zanonimizowane",
+    "sample_queries": [
+      "Pokaż średnie zarobki w departamentach",
+      "Narysuj histogram wieku pracowników",
+      "Jaka jest mediana stażu pracy?",
+      "Zrób wykres kołowy pokazujący podział pracowników według wykształcenia",
+      "Pokaż zależność między stażem pracy a dochodem"
+    ]
+  },
+  "metadata": {
+    "version": "1.0",
+    "last_updated": "2024-03-20",
+    "author": "HR Analytics Team",
+    "update_frequency": "monthly"
+  }
+}
